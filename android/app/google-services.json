@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "420060041663",
+    "project_id": "task-97c28",
+    "storage_bucket": "task-97c28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420060041663:android:29b5617a6a668f1027510a",
+        "android_client_info": {
+          "package_name": "com.example.dpo_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420060041663-aj7pqs8fgarijq46paldqpck2nsprc65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2UtYJ9r0dZodRvAhU2-LAgqFl-N-jGwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420060041663-aj7pqs8fgarijq46paldqpck2nsprc65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
